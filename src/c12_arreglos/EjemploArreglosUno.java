@@ -1,6 +1,6 @@
 package c12_arreglos;
 
-public class EjemploArreglos {
+public class EjemploArreglosUno {
     public static void main(String[] args) {
 
         // Creando arreglo con instancia y asignamos valores
